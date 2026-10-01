@@ -1,0 +1,11 @@
+Target: https://altoro.testfire.net/
+
+HTTP Response Headers:
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=[redacted]; Path=/; HttpOnly
+
+HTTPS Response Headers:
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=[redacted]; Path=/; Secure; HttpOnly
+
+

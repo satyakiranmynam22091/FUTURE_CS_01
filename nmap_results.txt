@@ -1,0 +1,10 @@
+Target: altoro.testfire.net
+IP Address: 65.61.137.117
+
+Nmap Command:
+nmap -sV -Pn -p 80,443 altoro.testfire.net
+
+Results:
+
+80/tcp  open  http   Apache Tomcat/Coyote JSP engine 1.1
+443/tcp open  https  Apache Tomcat/Coyote JSP engine 1.1
